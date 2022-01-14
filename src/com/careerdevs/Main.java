@@ -4,16 +4,14 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String firstName = "Rodney";
-        String lastName = "Derogene";
-        String fullName = firstName + " " + lastName;
-        System.out.println(fullName);
+//        java.lang.String firstName = "Rodney";
+//        String lastName = "Derogene";
+//        String fullName = firstName + " " + lastName;
+//        System.out.println(fullName);
     }
 
-}
 
-//        String createdName = createFullName(firstName, lastName);
-//        System.out.println(createdName);
+}
 //
 //         Person myPerson = new  Person(firstName, lastName);
 //         System.out.println("Firstname: " + myPerson.firstName);
@@ -39,11 +37,7 @@ public class Main {
 //
 //
 //    }
-//
-//    public static String createFullName (String fName, String lName) {
-//        return fName + " " + lName;
-//    }
-//}
+
 //
 //// line 12 - 13 has same output then 9-10
 //
