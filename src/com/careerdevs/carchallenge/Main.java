@@ -3,13 +3,13 @@ package com.careerdevs.carchallenge;
 public class Main {
     public static void main(String[] args) {
 
-//        Car carOne = new car("Camaro 2SS", "Chevy", 10000, 0.10);
-//        Car carTwo = new car("Mustang GT Model", "Ford", 30_000, 0.50);
-//        Car carThree = new car("Hellcat", "Dodge", 100, 0.90);
-//
-//
-//        System.out.println(Car.make);
-//        System.out.println(Car.model);
+        Car carOne = new car("Camaro 2SS", "Chevy", 10000, 0.10);
+        Car carTwo = new car("Mustang GT Model", "Ford", 30_000, 0.50);
+        Car carThree = new car("Hellcat", "Dodge", 100, 0.90);
+
+
+        System.out.println(Car.make);
+        System.out.println(Car.model);
 
     }
 }
