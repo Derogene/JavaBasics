@@ -30,7 +30,7 @@ public class UserInterface {
         long userInput6 = scanner.nextLong();
         System.out.println(userInput6 + " is year within the millenial era.");
 
-        System.out.println("How many days in a year");
+        System.out.println("How many days are in a year");
         double userInput7 = scanner.nextDouble();
         System.out.println("I guess " + userInput7 + " is correct if you do not count leap years." );
 
