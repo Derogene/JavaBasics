@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Fruit testFruit = new Fruit("Apple", "Red", Yes);
+        Fruit testFruit = new Fruit("Apple", "Red", true);
 
         System.out.println(testFruit);
 
@@ -19,11 +19,11 @@ public class Main {
         String nameInput = scanner.nextLine();
 
 
-        System.out.print("What is the population like?");
+        System.out.print("What is the color");
         String colorInput = scanner.nextLine();
 
 
-        System.out.print("Does it have seeds?");
+        System.out.print("Does it have seeds?\n(true/false) ");
         boolean hasSeedsInput = scanner.nextBoolean();
 
 

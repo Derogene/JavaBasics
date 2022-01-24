@@ -33,6 +33,6 @@ public class Main {
 
         Song userGeneratedSong = new Song(titleInput, artistInput, genreInput, secondsInput);
 
-        System.out.println(userGeneratedCountry);
+        System.out.println(userGeneratedSong);
     }
 }

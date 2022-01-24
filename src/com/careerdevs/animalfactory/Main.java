@@ -12,7 +12,7 @@ public class Main {
 
 
         //creating Scanner var
-        Scanner scanner = new Scanner(System.in)
+        Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to: Create an Animal");
 
@@ -21,7 +21,7 @@ public class Main {
         String speciesInput = scanner.nextLine();
 
 
-        System.out.print("Enter the # of Legs\n(-32k - 32k"): ");
+        System.out.print("Enter the # of Legs\n(-32k - 32k): ");
         short legsInput = scanner.nextShort();
 
 

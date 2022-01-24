@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Country testCountry = new Country("Haiti", (long) 6, Port-au-Prince);
+        Country testCountry = new Country("Haiti", 6, "Port-au-Prince");
 
         System.out.println(testCountry);
 
